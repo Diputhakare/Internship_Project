@@ -30,7 +30,7 @@ body{
 
 .var{
     display: flex;
-    background-color: tomato;
+    background-color: RebeccaPurple;
     width: 100%;
     height: auto;
     justify-content: space-evenly;
