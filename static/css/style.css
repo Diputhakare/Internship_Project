@@ -1,12 +1,12 @@
 body{
-    background-color: blanchedalmond;
+    background-color: Lavender;
 }
 
 .title{
     display: flex;
     width: 100%;
     height: auto;
-    background-color: chocolate;
+    background-color: black;
     color: white;
     border: 2px solid white;
     border-radius: 30px;
@@ -19,7 +19,7 @@ body{
     display: flex;
     width: 100%;
     height: auto;
-    background-color: cornflowerblue;
+    background-color: DarkCyan	;
     color: white;
     border: 2px solid white;
     border-radius: 30px;
@@ -41,7 +41,7 @@ body{
 
 .var1{
     display: inline-block;
-    background-color: cornsilk;
+    background-color: LightPink;
     font-size: x-large;
     font-weight: bold;
     margin: 5px;
@@ -63,7 +63,7 @@ input[type=submit] {
     font-size:x-large;
     font-weight: bold;
     text-align: center;
-    background-color: #4CAF50;
+    background-color: #66CDAA;
     color:white;
     padding: 14px 20px;
     margin: 8px 0;
@@ -78,7 +78,7 @@ footer{
     bottom: 15px;
     list-style: none;
     width: 100%;
-    background-color: cornflowerblue;
+    background-color: DarkSlateGray;
     text-align: center;
 }
 
